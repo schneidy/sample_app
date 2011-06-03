@@ -1,0 +1,2 @@
+require 'redgreen'
+require 'autotest/timestamp'
